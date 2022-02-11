@@ -18,7 +18,7 @@
 .donate-section {
     background: #15202a;
     padding: 10px;
-    width: 270px;
+    width: 250px;
     box-sizing: border-box;
     margin-top: 5px;
     transition: 2s;
@@ -47,9 +47,9 @@
     padding: 10px 0 0;
 
     list-style: none;
-    font-size: 16px !important;
+    font-size: 14px !important;
     list-style: none;
-    margin-top: 15px !important;
+    margin-top: 5px !important;
     font-weight: 500;
 }
 
@@ -57,6 +57,7 @@
 .donate-section ul {
     text-align: left;
     color: RGBA(255, 255, 255, .75);
+    font-size: 12px !important;
 }
 
 .donate-section a.button,
@@ -68,7 +69,7 @@
     color: #2b1d00;
     font-weight: 600;
     margin-top: 10px;
-    font-size: 18px;
+    font-size: 16px;
     padding: 3px;
     -webkit-box-shadow: 0 2px 2px RGBA(0, 0, 0, .95);
     box-shadow: 0 2px 2px RGBA(0, 0, 0, .95);
