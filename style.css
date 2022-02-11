@@ -41,6 +41,7 @@
 .donate-intro+p {
     margin-bottom: 3px;
     margin-top:8px;
+    line-height: 18px;
 }
 
 .donate-section ul {
@@ -114,7 +115,7 @@
 
 .donate-section:hover {
     position: relative;
-    top: 80px
+    top: 90px
 }
 
 .donate-section .donate-intro {
@@ -122,4 +123,5 @@
     font-size: 15px !important;
     color: #fff;
     margin: 0;
+        line-height: 24px;
 }
