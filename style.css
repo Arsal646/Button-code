@@ -59,7 +59,7 @@
 .donate-section p,
 .donate-section ul {
     text-align: left;
-   color: RGBA(255, 255, 255, 0.95);
+   color: RGBA(255,255,255,.75);
     font-size: 11px !important;
 }
 
