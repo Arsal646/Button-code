@@ -40,6 +40,7 @@
 
 .donate-intro+p {
     margin-bottom: 3px;
+    margin-top:15px;
 }
 
 .donate-section ul {
@@ -51,6 +52,8 @@
     list-style: none;
     margin-top: 5px !important;
     font-weight: 500;
+    line-height: 25px;
+   
 }
 
 .donate-section p,
@@ -113,7 +116,7 @@
 
 .donate-section:hover {
     position: relative;
-    top: 110px
+    top: 100px
 }
 
 .donate-section .donate-intro {
